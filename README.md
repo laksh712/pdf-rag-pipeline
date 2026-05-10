@@ -7,4 +7,4 @@ Upload any PDF and ask questions using natural language.
 - - Groq LLM (Llama 3.3)
 - - Streamlit (UI) 
 - ## 🚀 Live Demo 
-- [Click here](YOUR_STREAMLIT_URL)
+- [Click here]([YOUR_STREAMLIT_URL](https://pdf-rag-pipeline-m4p5ymgovdyk9g4pgkmped.streamlit.app/))
